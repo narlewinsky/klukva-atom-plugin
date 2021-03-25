@@ -1,0 +1,26 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Run Klukva",
+                "command": "klukva-atom-plugin:toggle"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Klukva",
+                    "submenu": [
+                        {
+                            "label": "Run It",
+                            "command": "klukva-atom-plugin:toggle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
