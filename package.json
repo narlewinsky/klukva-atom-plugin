@@ -1,6 +1,6 @@
 {
     "name": "klukva-atom-plugin",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "Plagin Atom dlä perevoda teksta iz russkoj kirillicy v russkuju latinicu",
     "author": "Nar Lewinsky",
     "license": "MIT",
@@ -24,6 +24,6 @@
         "atom": ">=1.0.0 <2.0.0"
     },
     "dependencies": {
-        "klukva-core": "^1.0.4"
+        "klukva-core": "^1.2.1"
     }
 }
